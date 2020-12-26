@@ -1,0 +1,424 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+a:link { 
+  color: white; 
+  text-align: center;
+  text-decoration: none;
+  
+}
+a:visited 
+{ 
+  color: white; 
+  text-align: center;
+  text-decoration: none;
+  
+}
+  
+a:hover, a:active, a:focus {
+  color:#77e061;
+  
+}
+
+.header {width:100%;
+		background-color: black;
+		height: 20%;
+		float: left;
+
+}
+.logo   {background-color:black;
+		color: red; 
+		float: left; 
+		width: 50.78%;
+		padding: 4%;
+		color: black;
+		font-size:40px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		cursor:grab;
+		height: 20px; 
+		letter-spacing: 0.02em;
+	
+}
+
+.nav2  {background-color:black;
+		float: right; 
+		width: 14.1%;
+		padding: 4%;
+		font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20px;
+		
+}
+
+
+
+.nav1  {
+		background-color:black;
+		float: right; 
+		width: 10.06%;
+		padding: 4%;
+		font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20px; 
+}
+
+.one{
+		background-color:black;
+		width: 100%;
+		font-size: 25px;
+		font-family: Helvetica;
+		height: 100px; 
+		text-align: center ;
+		color: #D4AF37;
+		font-weight: medium;
+}
+ 
+
+
+
+.two{
+		background-color:#D4AF37;
+		width: 100%;
+		font-size: 25px;
+		font-family: Helvetica;
+		height: 160px; 
+		text-align: center ;
+		color: black;
+		letter-spacing: 0.05em;
+		font-weight: bold;
+}
+ 
+
+.specialguest{
+		float: left;
+		background-color:black;
+		width: 23%;
+		font-size: 22px;
+		font-family: Helvetica;
+		height: 80px; 
+		text-align: center;
+		height: 390px; 
+		border: 10px;
+		display: block; 
+		color: #D4AF37;
+		cursor: pointer;
+		margin: auto; 		
+		
+		
+}
+
+.specialguest:hover    {
+
+  animation: shake 1s; 
+  animation-iteration-count: 2;
+  margin: auto; 
+ 
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+
+
+
+.text{
+		float: left;
+		background-color:black;
+		width: 17%;
+		font-size: 22px;
+		font-family: Helvetica;
+		height: 80px; 
+		text-align: left;
+		height: 390px; 
+		border: 10px;
+		color: #D4AF37;
+		
+}
+
+.cocktails{
+		float: right;
+		background-color:black;
+		width: 30%;
+		font-size: 22px;
+		font-family: Helvetica;
+		height: 390px; 
+		text-align: center;
+		 color: #D4AF37;
+}
+
+.dj{
+		float: left;
+		background-color:black;
+		width: 30%;
+		font-size: 28px;
+		font-family: Helvetica;
+		height: 390px; 
+		text-align: center;
+		color: #a2022f;
+		 
+}
+
+.button{
+		float: left;
+		background-color:black;
+		width: 100%;
+		font-size: 28px;
+		font-family: Helvetica;
+		height: 150px; 
+		text-align: center;
+		color: white; 
+		 
+}
+
+
+
+.space {clear: both; 
+		width: 100%;
+		height: 90px; 
+		background-color: #d8dfe1;
+		text-align: center;
+		font-family: Helvetica;
+		color: black;
+		font-size: 19px;
+		border-bottom: 0.5px dotted #000014;
+		position: relative;
+		animation-name: space;
+		animation-timing-function: linear;
+		animation-duration: 15s;
+		animation-direction: alternate;
+		animation-iteration-count: infinite;	
+}
+
+
+
+.spare {clear: both; 
+		width: 100%;
+		height: 90px; 
+		background-color: #d8dfe1;
+		text-align: center;
+		font-family: Helvetica;
+		color: black;
+		font-size: 19px;
+		border-bottom: 0.5px dotted #000014;
+		position: relative;
+		animation-name: space;
+		animation-timing-function: linear;
+		animation-duration: 15s;
+		animation-direction: alternate;
+		animation-iteration-count: infinite;
+	
+}
+
+@keyframes space {
+  0%   {background-color:blue; left:0px; top:0px;}
+  25%  {background-color:#EE82EE; left:0px; top:0px;}
+  50%  {background-color:orange;  left:0px; top:0px;}
+  75%  {background-color:dark blue; left:0px; top:0px;}
+  100% {background-color:#B2B2FF; left:0px; top:0px;}
+  
+}
+
+.image0 {float: left;
+		width: 30%;
+		height: 200px; 
+		background-color: #d8dfe1;
+		text-align: right;
+		font-family: Helvetica;
+		border-bottom: 0.5px dotted #000014;
+		
+}
+
+.image1 {float: left;
+		width: 30%;
+		height: 200px; 
+		background-color: #d8dfe1;
+		text-align: right;
+		font-family: Helvetica;
+		border-bottom: 0.5px dotted #000014;
+		
+}
+
+.image2 {float: right;
+		width: 40%;
+		height: 200px; 
+		background-color: #d8dfe1;
+		text-align: center;
+		font-family: Helvetica;
+		border-bottom: 0.5px dotted #000014;
+}
+
+.image3 {float: left; 
+		width: 30%;
+		height: 200px; 
+		background-color: #d8dfe1;
+		text-align: right;
+		font-family: Helvetica;
+		border-bottom: 0.5px dotted #000014;
+}
+
+.image4 {float: left; 
+		width: 30%;
+		height: 200px; 
+		background-color: #d8dfe1;
+		text-align: right;
+		font-family: Helvetica;
+		border-bottom: 0.5px dotted #000014;
+}
+
+.image5 {float: right; 
+		width: 40%;
+		height: 200px; 
+		background-color: #d8dfe1;
+		text-align: center;
+		font-family: Helvetica;
+		border-bottom: 0.5px dotted #000014;
+}
+
+
+
+
+
+.aboutus  {
+			float: left;
+			background-color:#45494d;
+			width: 15%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 26px;
+			color: white; 
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+
+}
+
+
+.contact {
+			float: left;
+			background-color:#45494d;
+			width: 8%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 26px;
+			color: white;
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+}
+
+.careers    {
+	
+			float: left;
+			background-color:#45494d;
+			width: 24.89%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 26px;
+			color: white;
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+}
+
+	
+
+.facebook   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 2%;
+			padding: 3%;
+			height: 20px; 
+			font-size: 30px;
+			color: white;
+}
+
+
+.tiktok   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 2%;
+			padding: 3%;
+			height: 20px; 
+			font-size: 30px;
+			color: white;
+}	
+
+.insta   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 2%;
+			padding: 3%;
+			height: 20px; 
+			font-size: 30px;
+			color: white;
+			
+}	
+
+.thumbnail:hover {
+    position:relative;
+    top:-20px;
+    left:-20px;
+    width:20px;
+    height:20;
+    display:block;
+    z-index:999;
+}
+
+.footer {
+			float: left;
+			background-color:#45494d;
+			width: 100%;
+			height: 100%; 
+			margin: auto; 
+
+}
+
+@media only screen and (max-width: 600px) {
+
+.logo { height: 100%;
+			max-width: 20%;
+}
+
+.nav1 { height: 100%;
+			width: 20%;
+}
+
+.nav2 { height: 100%;
+			width: 30%;
+}
+
+.specialguest { 
+			display: block; 
+      float:left;
+	  width: 100%;
+
+    }
+	
+	.cocktails { 
+			display: none;
+    }
+	
+	.dj {min-width: 100%;
+
+    }
+	
+	.text {min-width: 100%;
+	text-align: center; 
+	}
+
+}
+
+

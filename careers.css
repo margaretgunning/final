@@ -1,0 +1,308 @@
+a:link { 
+  color: white; 
+  text-align: center;
+  text-decoration: none;
+  
+}
+a:visited 
+{ 
+  color: white; 
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+a:hover, a:active, a:focus {
+  color:#77e061;
+  
+}
+
+.header {width:100%;
+		background-color: #000014;
+		height: 200%;
+		float: left;
+
+}
+
+
+.logo   {background-color:#000014; 
+		float: left; 
+		width: 55.94%;
+		padding: 4%;
+		color: black;
+		font-size:40px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		cursor:grab;
+		height: 20px; 
+	
+}
+
+.nav2  {background-color:#000014;
+		float: right; 
+		width: 10%;
+		padding: 4%;
+		font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20px;
+}
+
+
+.nav1  {
+		background-color:#000014;
+		float: right; 
+		width: 10%;
+		padding: 4%;
+		font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20px; 
+}
+
+.container   {max-width: 100%;
+			margin: auto;
+			display: block;
+			
+			
+			
+}
+
+.writeup {min-height: 330px;
+		width: 100%;
+		display: flex;
+		align-items: bottom;
+		justify-content: bottom;
+		background-image: url("hire.png");
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		color: black;
+		text-align: center; 
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		font-size: 30px;
+		background-color: navy;
+}
+
+h4 {background-color: #2e3641;
+    height: 110px;
+	color: white;
+	font-size: 24px;	
+	width: 7%;
+	border-style: solid;
+	border-color: white;
+	text-align: center;
+	content: right;
+	font-family: Helvetica;
+}
+
+.apply  {height: 50px;
+			background-color:#F5F5F5;
+			 font-family: Helvetica;
+			 font-size: 23px;
+			 text-align: center; 
+			 color:#000014;
+}
+
+.body    {height: 150px;
+			background-color:#F5F5F5;
+			 font-family: Helvetica;
+			 font-size: 18px;
+			 text-align: justify; 
+			 color:#000014;
+}
+
+
+.job1 	{height: 95px;
+			background-color:#d8dfe1;
+			text-align: left;
+			font-size; 30px;
+			font-family: Helvetica;		
+			
+}
+
+.apply1 {height: 30px;
+			background-color:#d8dfe1;
+			text-align: left;
+			font-size; 40px;
+			font-family: Helvetica;
+			border-bottom: 5px solid white;
+					
+}
+
+.job2 		{height: 95px;
+			background-color:#d8dfe1;
+			text-align: left;
+			font-size; 30px;
+			font-family: Helvetica;			
+}
+
+.apply2		{height: 50px;
+			background-color:#d8dfe1; 
+			text-align: left;
+			font-size; 30px;
+			font-family: Helvetica;		
+			border-bottom: 5px solid white;			
+}
+
+.job3 		{height: 95px;
+			background-color:#d8dfe1;
+			text-align: left;
+			font-size; 30px;
+			font-family: Helvetica;			
+}
+
+.apply3		{height: 50px;
+			background-color:#d8dfe1; 
+			text-align: left;
+			font-size; 30px;
+			font-family: Helvetica;		
+			border-bottom: 5px solid white;			
+}
+
+
+
+
+.aboutus  {
+			float: left;
+			background-color:#45494d;
+			width: 8%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 25px;
+			color: white; 
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+}
+
+
+.contact {
+			float: left;
+			background-color:#45494d;
+			width: 8%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 25px;
+			color: white;
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+			
+}
+
+.careers    {
+	
+			float: left;
+			background-color:#45494d;
+			width: 32.59%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 25px;
+			color: white;
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+			
+}
+
+	
+
+.facebook   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 1%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 30px;
+			color: white;
+}
+
+
+.tiktok   {
+			float: right;
+			background-color:#45494d;
+			width: 1%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 30px;
+			color: white;
+}	
+
+.insta   {
+			float: right;
+			background-color:#45494d;
+			width: 1%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 30px;
+			color: white;			
+}	
+
+.thumbnail:hover {
+    position:relative;
+    top:-20px;
+    left:-20px;
+    width:20px;
+    height:20;
+    display:block;
+    z-index:999;
+}
+
+.footer {background-color:#45494d;
+		height: 140px;
+		width: 100%;
+
+}
+
+@media only screen and (max-width: 600px) {
+.logo  {width: 20%;
+			height: 600%;
+			}
+
+.writeup  {display: none;
+			}
+			
+.apply  {width: 100%;
+			height: 150px;
+			}
+.body  {width: 100%;
+			height: 600%;
+			}
+
+.job1  {width: 100%;
+			height: 600%;
+			}
+			
+.job2  {width: 100%;
+			height: 600%;
+			}
+.job3  {width: 100%;
+			height: 600%;
+			}
+			
+.aboutus  {width: 10%;
+			height: 20%;
+			}		
+			
+.contact  {width: 10%;
+			height: 20%;
+			}
+
+.careers  {width: 10%;
+			height: 20%;
+			}			
+			
+.facebook  {width: 2%;
+			height: 20%;
+			}	
+			
+.insta  {width: 2%;
+			height: 20%;
+			}
+			
+.tiktok  {width: 2%;
+			height: 20%;
+			}
+}
+
+

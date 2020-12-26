@@ -1,0 +1,394 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+a:link { 
+  color: white; 
+  text-align: center;
+  text-decoration: none;
+  
+}
+a:visited 
+{ 
+  color: white; 
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+a:hover, a:active, a:focus {
+  color:#77e061;
+}
+
+.header {width:100%;
+		background-color: #000014;
+		height: 20%;
+		float: left;
+
+}
+.logo   {background-color:#000014;
+		color: white; 
+		float: left; 
+		width: 50.66%;
+		padding: 3%;
+		color: black;
+		font-size:36px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		cursor:grab;
+		height: 10%; 
+	
+}
+
+.nav2  {background-color:#000014;
+		float: right; 
+		width: 9.61%;
+		padding: 3%;
+		font-size: 30px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20%;
+}
+
+
+
+.nav1  {
+		background-color:#000014;
+		float: right; 
+		width: 7.72%;
+		padding: 3%;
+		font-size: 30px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20%; 
+}
+
+.container   {max-width: 100%;
+			margin: auto;
+			display: block;
+			
+			
+			
+}
+
+.about 
+		{background-color:#d8dfe1;
+		float: right; 
+		width: 100%;
+		height: 400%;
+		font-size: 26px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		margin: auto;
+		text-align: justify;
+		
+		 
+	
+}
+
+.review 
+		{background-color: #d8dfe1;
+		float: left; 
+		width: 99.50%;
+		height: 350%;
+		padding: 3px;
+		font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		margin-right: auto;
+		text-align: center; 
+		border-right: 2px solid white; 
+		border-left: 2px solid white; 
+	
+}
+
+.slogan 
+		{background-color: #d8dfe1;
+		float: left; 
+		width: 100%;
+		height: 200%;
+		padding: 3px;
+		font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		margin-right: auto;
+		text-align: center; 
+		
+		
+	
+}
+
+.video  { background-color: #e7e0c2;
+		float: left; 
+		width: 100%;
+		height: 400%;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		margin-right: auto;
+		text-align: center;	
+		border-bottom: 20px solid #e7e0c2;
+		
+	
+}
+
+.whenthe {background-color: #e7e0c2;
+		  float: left;
+		  width: 10%;
+		  height: 120px;
+		  font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		
+		
+		
+		
+}
+
+.moon {background-color: #e7e0c2;
+		  float: left;
+		  width: 15%;
+		  height: 120px;
+		  display: flex; 
+		  
+}
+
+.hitsyour {background-color: #e7e0c2;
+		  float: left;
+		  width: 10%;
+		  height: 120px;
+		  font-size: 28px;
+		 font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		
+}
+
+.eyes {background-color: #e7e0c2;
+		  float: left;
+		  width: 15%;
+		  height: 120px;
+		  display: flex; 
+}
+
+.likeabig {background-color: #e7e0c2;
+		  float: left;
+		  width: 10%;
+		  height: 120px;
+		  font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		display: flex; 
+}
+
+.pizza {background-color: #e7e0c2;
+		  float: left;
+		  width: 15%;
+		  height: 120px;
+		  display: flex; 
+}
+
+.piethats {background-color: #e7e0c2;
+		  float: left;
+		  width: 10%;
+		  height: 120px;
+		  font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		display: flex; 
+}
+
+.amore {background-color: #e7e0c2;
+		  float: left;
+		  width: 15%;
+		  height: 120px;
+		  display: flex; 
+}
+
+.aboutus  {
+			float: left;
+			background-color:#45494d;
+			width: 7%;
+			padding: 4.20%;
+			height: 20%; 
+			font-size: 25px;
+			color: white; 
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+			border-top: 9px solid #e7e0c2;
+			display: flex;
+			display: flex; 
+
+}
+
+
+.contact {
+			float: left;
+			background-color:#45494d;
+			width: 7%;
+			padding: 4.20%;
+			height: 20%; 
+			font-size: 25px;
+			color: white;
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+			border-top: 9px solid #e7e0c2;
+			display: flex; 
+}
+
+.careers    {
+	
+			float: left;
+			background-color:#45494d;
+			width: 33.94%;
+			padding: 4.20%;
+			height: 20%; 
+			font-size: 25px;
+			color: white;
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+			border-top: 9px solid #e7e0c2;
+			display: flex; 
+}
+
+	
+
+.facebook   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 1%;
+			padding: 4%;
+			height: 20%; 
+			font-size: 30px;
+			color: white;
+			border-top: 9px solid #e7e0c2;
+			display: flex; 
+}
+
+
+.tiktok   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 1%;
+			padding: 3.92%;
+			height: 20%; 
+			font-size: 30px;
+			color: white;
+			border-top: 9px solid #e7e0c2;
+			display: flex; 
+}	
+
+.insta   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 1%;
+			padding: 4%;
+			height: 20%; 
+			font-size: 30px;
+			color: white;
+			border-top: 9px solid #e7e0c2;
+			display: flex; 
+			
+}	
+
+.thumbnail:hover {
+    position:relative;
+    top:-20px;
+    left:-20px;
+    width:20;
+    height:20;
+    display:block;
+    z-index:999;
+}
+
+
+
+.footer {
+			float: left;
+			background-color:#45494d;
+			width: 100%;
+			height: 100%; 
+			margin: auto; 
+
+} 
+
+@media only screen and (max-width: 700px) {
+.slogan  {display: none;	}
+
+.whenthe {display: none; 
+}
+
+.moon {display: none; 
+}
+
+.hitsyour {display: none; 
+		
+}
+
+.eyes {display: none;  
+}
+
+.likeabig {display: none; 
+}
+
+.pizza {display: none; 
+}
+
+.piethats {display: none; 
+}
+
+.amore {display: none; 
+}
+
+.logo {width:30%; 
+}
+
+.nav1 {width:20%; 
+		font-size:27px;
+}
+
+.nav2 {width:30%; 
+	font-size:27px;
+}
+
+.review {display: none; 
+		
+}
+
+.about {text-align: left;
+}
+
+
+.video {max-width: 100%;
+		text-align: left;
+		height:200%;
+}
+
+.aboutus {width:10.70%;
+			font-size:20px;
+}
+
+.contact {width:10%;
+		font-size:20px; 
+}
+
+.careers {width:15.283%; 
+		font-size:20px;
+}
+
+.facebook {width:5%; 
+			
+}
+
+.insta {width:5%; 
+}
+
+.tiktok {width:5%; 
+}
+
+
+
+
+}
+
+
+

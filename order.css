@@ -1,0 +1,45 @@
+
+.logo   {background-color:#000014;
+		color: red; 
+		float: left; 
+		width: 56.25%;
+		padding: 50px;
+		color: black;
+		font-size:40px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		cursor:grab;
+		height: 20px; 
+	
+}
+
+.nav2  {background-color:#000014;
+		float: right; 
+		width: 10%;
+		padding: 50px;
+		font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20px;
+		
+
+}
+
+
+
+.nav1  {
+		background-color:#000014;
+		float: right; 
+		width: 10%;
+		padding: 50px;
+		font-size: 28px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20px; 
+}
+
+.container   {width: 1024px;
+			margin: auto;
+			background-color:#000014;
+			
+}

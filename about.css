@@ -1,0 +1,43 @@
+header   {background-color:#000014;
+		 height: 140px;
+		 width: 100%;
+		 font-size: 30px;
+		 margin-bottom: 10px; 		 		 
+}
+
+.logo   {background-color:#000014;
+		float: left; 
+		width: 30%;
+		padding: 30px;
+		color: black;
+		font-size: 50px;
+		height: 150 px; 
+	
+}
+
+.nav1  {background-color:#000014;
+		float: right; 
+		width: 13%;
+		padding: 50px;
+		height: 140 px; 
+		font-size: 30px;
+		
+
+}
+
+.nav2  {background-color:#000014;
+		float: right; 
+		width: 13%;
+		padding: 50px;
+		height: 140 px; 
+		font-size: 30px;
+}
+
+style {  background-image: url('img_pizzza.png'); 
+		background: cover; 
+		background-repeat: no-repeat; 
+		height: 500px;
+		float: clear; 
+		
+		
+}

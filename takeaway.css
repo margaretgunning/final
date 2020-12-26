@@ -1,0 +1,480 @@
+a:link { 
+  color: white; 
+  text-align: center;
+  text-decoration: none;
+  
+}
+a:visited { 
+  color: white; 
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+a:hover, a:active, a:focus {
+  color:#77e061;
+  
+}
+
+.header {width:100%;
+		background-color: #000014;
+		height: 20%;
+		float: left;
+
+}
+
+
+.logo   {background-color:#000014;
+		color: red; 
+		float: left; 
+		width: 55.85%;
+		padding: 4%;
+		color: black;
+		font-size:30px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		cursor:grab;
+		
+	
+}
+
+.nav2  {background-color:#000014;
+		float: right; 
+		width: 10%;
+		padding: 4%;
+		font-size: 30px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20%;
+}
+
+
+
+.nav1  {
+		background-color:#000014;
+		float: right; 
+		width: 10.15%;
+		padding: 4%;
+		font-size: 30px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		height: 20.09%; 
+}
+
+.notyet {width: 100%;
+		height: 40%;
+		background-color:#D4AF37;
+		float: left;	
+		text-align: left;
+		font-family: Helvetica;
+		font-size: 18px;
+		color: #000014;
+	
+
+}
+
+.pizza {width: 100%;
+		height: 60%;
+		background-color: #F0E68C;
+		float: left;
+		border-color:#D4AF37;
+		border-style: solid; 
+		border-width: thick;
+		text-align: left;
+		font-family: Helvetica;
+		font-size: 18px;
+}
+
+
+
+.firstpizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #F0E68C;
+		text-align: center;
+
+}
+
+
+.secondpizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #F0E68C;
+
+}
+
+
+.thirdpizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #F0E68C;
+
+}
+
+.fourthpizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #F0E68C;
+
+}
+
+.fifthpizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #D4AF37;
+
+}
+
+
+.basket {width: 24.67%;
+		height: 216px;
+		float: right;
+		background-color: #b2ffb2;
+		color: #000033;
+		text-align: center;
+		font-family: Helvetica;
+		font-size: 18px;
+		border-color:   #000014;
+		border-style: solid; 
+		border-width: small;
+		
+
+}
+
+.button1 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color: #D4AF37;
+		text-align: center; 
+		color: white;
+		text-align: center;
+}
+.button2 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color: #D4AF37;
+		text-align: center; 
+		color: white; 
+}
+
+.button3 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color: #D4AF37;
+		text-align: center; 
+		color: white; 
+
+}
+.button4 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color: #D4AF37;
+		text-align: center; 
+		color: white;  
+
+}
+
+.button5 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color: #D4AF37; 
+		text-align: center; 
+		color: white; 
+
+}
+
+.basket2 {
+		width: 24.67%;
+		height: 96px;
+		float: right;
+		background-color:  #b2ffb2;
+		text-align: center; 
+		font-family: Helvetica;
+		font-size: 18px;
+		color: #000033;
+		border-color:   #000014;
+		border-style: solid; 
+		border-width: small;
+
+}
+
+
+
+.sixpizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #F0E68C;
+
+}
+
+
+.sevenpizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #F0E68C;
+
+}
+
+
+.eightpizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #F0E68C; 
+
+}
+
+.ninepizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #F0E68C;
+
+}
+
+.tenpizza {width: 15%;
+		height: 220px;
+		float: left;
+		background-color: #D4AF37;
+
+}
+
+
+.blankspace1 {width: 25%;
+		height: 220px;
+		float: right;
+		background-color: #F0E68C;
+		color: white;		
+}
+
+.button6 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color: #D4AF37;
+		text-align: center; 
+		color: white;
+		text-align: center;
+}
+.button7 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color: #D4AF37;
+		text-align: center; 
+		color: white; 
+}
+
+.button8 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color: #D4AF37;
+		text-align: center; 
+		color: white; 
+
+}
+.button9 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color: #D4AF37;
+		text-align: center; 
+		color: white;  
+
+}
+
+.button10 {
+		width: 15%;
+		height: 100px;
+		float: left;
+		background-color:#D4AF37;
+		text-align: center; 
+		color: white; 
+
+}
+
+.blankspace2 {
+		width: 25%;
+		height: 100px;
+		float: right;
+		background-color: #F0E68C; 
+		text-align: centre; 
+}
+
+.sides{
+		width: 33.33%;
+		height: 60px;
+		float: left;
+		background-color:#F0E68C; 
+		text-align: center; 
+		font-family: Helvetica;
+		font-size: 18px;
+}
+
+.mealdeals{
+		width: 33.33%;
+		height: 60px;
+		float: left;
+		background-color: #F0E68C;
+		text-align: center; 
+		font-family: Helvetica;
+		font-size: 18px;
+}
+
+.drinks{
+		width: 33.33%;
+		height: 60px;
+		float: left;
+		background-color: #F0E68C; 
+		text-align: center; 
+		font-family: Helvetica;
+		font-size: 18px;
+}
+
+.sidess{
+		width: 33%;
+		height: 380px;
+		float: left;
+		background-color:#F0E68C; 
+		text-align: left; 
+		font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+		font-size: 17px;
+		border-color: #000014;
+		border-style: inset; 
+		text-indent: 50px;
+		
+}
+
+.mealdealss{
+		width: 33%;
+		height: 380px;
+		float: left;
+		background-color: #F0E68C;
+		text-align: left; 
+		font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+		font-size: 17px;
+		border-top: 2px solid #000014;
+		border-bottom: 2px solid #000014; 
+}
+
+.drinkss{
+		width: 33%;
+		height: 380px;
+		float: left;
+		background-color: #F0E68C; 
+		text-align: left; 
+		font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+		font-size: 17px;
+		border-color:   #000014;
+		border-style: inset; 
+}
+
+
+
+
+.container   {min-width: 1000px;
+			margin: auto; 
+			height: auto;
+			background-color:#000014;			
+}
+
+
+
+
+.aboutus  {
+			float: left;
+			background-color:#45494d;
+			width: 8%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 26px;
+			color: white; 
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+
+}
+
+.contact {
+			float: left;
+			background-color:#45494d;
+			width: 8%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 26px;
+			color: white;
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+}
+
+.careers    {
+	
+			float: left;
+			background-color:#45494d;
+			width: 32.88%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 26px;
+			color: white;
+			font-family: 'Dosis';
+			font-stretch: ultra-expanded;
+}
+
+	
+
+.facebook   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 1%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 30px;
+			color: white;
+}
+
+
+.tiktok   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 1%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 30px;
+			color: white;
+}	
+
+.insta   {
+	
+			float: right;
+			background-color:#45494d;
+			width: 1%;
+			padding: 4%;
+			height: 20px; 
+			font-size: 30px;
+			color: white;
+			
+}	
+
+.thumbnail:hover {
+    position:relative;
+    top:-20px;
+    left:-20px;
+    width:20px;
+    height:20;
+    display:block;
+    z-index:999;
+}
+
+.footer {
+			float: left;
+			background-color:#45494d;
+			width: 100%;
+			height: 100%; 
+			margin: auto; 
+
+}
